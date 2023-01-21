@@ -30,7 +30,7 @@ card.innerHTML =`
 <img class="img" src=${index.img} alt="">
 <p id="p">${index.name} </p>
 <select name="" id="">
-<option value="">انتخاب تعداد</option>
+<option value=""> استعلام قیمت</option>
 <option id="t10"  value="10">10  20</option>
 <option id="t20"  value="20">20 30 </option>s
 <option id="t30"  value="30">30 40 </option>
